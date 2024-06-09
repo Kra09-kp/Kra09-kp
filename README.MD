@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, My name is
 Kirti Pogra
 ===================================================================================================================================
 
@@ -9,10 +9,9 @@ I am a dedicated learner interested in machine learning and data science. I'm ac
 practical projects and seeking to contribute to impactful solutions in Machine Learning and Data Science
 
 * 🌍  I'm based in Neemuch, Madhya Pradesh, India
-* 🖥️  See my portfolio at [Kirti Pogra](http://www.google.com)
+/** 🖥️  See my portfolio at [Kirti Pogra](http://www.google.com) */
 * ✉️  You can contact me at [kirtipogra@gmail.com](mailto:kirtipogra@gmail.com)
-* 🧠  I'm learning maths behind machine learning and deep learning, also doing project to gain practical knowledge as
-well.
+* 🧠  I'm learning maths behind machine learning and deep learning, and also doing projects to gain practical knowledge as well.
 * 🤝  I'm open to collaborating on Machine Learning and Deep Learning projects
 
 
